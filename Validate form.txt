@@ -1,0 +1,9 @@
+<html>
+<body>
+<form>
+	<input type="text" required/>
+	<input type"checkbox" />
+	<input type="submit"/>
+</form>
+</body>
+</html>
